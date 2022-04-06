@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**abde7h/abde7h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.instagram.com/abde7h/">
+  <img align="left" alt="abde7h's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.com/users/#8087">
+  <img align="left" alt="Abde7h's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="www.linkedin.com/in/abdessamad-belkhialat-hammouri-6a42b3124">
+  <img align="left" alt="Abde7h's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=abde7h.abde7h)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hi I'am Abde. I'am currently training as a software developer, I am an enthusiast of the tech world, self-taught with a great passion for learning new things.
+
+
+```javascript
+const thai = {
+  pronouns: "her",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React, Git, Figma, Notion],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+}
+```
