@@ -6,7 +6,7 @@
 <a href="https://discord.com/users/#8087">
   <img align="left" alt="Abde7h's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="www.linkedin.com/in/abdessamad-belkhialat-hammouri-6a42b3124">
+<a href="www.linkedin.com/in/abeldev4">
   <img align="left" alt="Abde7h's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
